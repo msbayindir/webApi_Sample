@@ -1,4 +1,6 @@
-﻿using WebApi.Extensions;
+﻿using Repositories.Contracts;
+using Repositories.EfCore;
+using WebApi.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +11,11 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.ConfigurSqlContext(builder.Configuration);
 builder.Services.AddSwaggerGen();
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<IRepositoryManager, RepositoryManager>();
+
+
+
 
 var app = builder.Build();
 
