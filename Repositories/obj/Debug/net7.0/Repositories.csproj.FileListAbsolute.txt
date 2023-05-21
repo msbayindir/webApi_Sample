@@ -1,0 +1,17 @@
+/Users/muhammedbayindir/Projects/msbayindir/Repositories/bin/Debug/net7.0/Repositories.deps.json
+/Users/muhammedbayindir/Projects/msbayindir/Repositories/bin/Debug/net7.0/Repositories.runtimeconfig.json
+/Users/muhammedbayindir/Projects/msbayindir/Repositories/bin/Debug/net7.0/Repositories.dll
+/Users/muhammedbayindir/Projects/msbayindir/Repositories/bin/Debug/net7.0/Repositories.pdb
+/Users/muhammedbayindir/Projects/msbayindir/Repositories/bin/Debug/net7.0/Entities.dll
+/Users/muhammedbayindir/Projects/msbayindir/Repositories/bin/Debug/net7.0/Entities.pdb
+/Users/muhammedbayindir/Projects/msbayindir/Repositories/obj/Debug/net7.0/Repositories.csproj.AssemblyReference.cache
+/Users/muhammedbayindir/Projects/msbayindir/Repositories/obj/Debug/net7.0/Repositories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammedbayindir/Projects/msbayindir/Repositories/obj/Debug/net7.0/Repositories.AssemblyInfoInputs.cache
+/Users/muhammedbayindir/Projects/msbayindir/Repositories/obj/Debug/net7.0/Repositories.AssemblyInfo.cs
+/Users/muhammedbayindir/Projects/msbayindir/Repositories/obj/Debug/net7.0/Repositories.csproj.CoreCompileInputs.cache
+/Users/muhammedbayindir/Projects/msbayindir/Repositories/obj/Debug/net7.0/Repositories.csproj.CopyComplete
+/Users/muhammedbayindir/Projects/msbayindir/Repositories/obj/Debug/net7.0/Repositories.dll
+/Users/muhammedbayindir/Projects/msbayindir/Repositories/obj/Debug/net7.0/refint/Repositories.dll
+/Users/muhammedbayindir/Projects/msbayindir/Repositories/obj/Debug/net7.0/Repositories.pdb
+/Users/muhammedbayindir/Projects/msbayindir/Repositories/obj/Debug/net7.0/Repositories.genruntimeconfig.cache
+/Users/muhammedbayindir/Projects/msbayindir/Repositories/obj/Debug/net7.0/ref/Repositories.dll

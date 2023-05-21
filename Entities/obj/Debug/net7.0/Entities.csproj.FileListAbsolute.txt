@@ -1,0 +1,12 @@
+/Users/muhammedbayindir/Projects/msbayindir/Entities/bin/Debug/net7.0/Entities.deps.json
+/Users/muhammedbayindir/Projects/msbayindir/Entities/bin/Debug/net7.0/Entities.dll
+/Users/muhammedbayindir/Projects/msbayindir/Entities/bin/Debug/net7.0/Entities.pdb
+/Users/muhammedbayindir/Projects/msbayindir/Entities/obj/Debug/net7.0/Entities.csproj.AssemblyReference.cache
+/Users/muhammedbayindir/Projects/msbayindir/Entities/obj/Debug/net7.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammedbayindir/Projects/msbayindir/Entities/obj/Debug/net7.0/Entities.AssemblyInfoInputs.cache
+/Users/muhammedbayindir/Projects/msbayindir/Entities/obj/Debug/net7.0/Entities.AssemblyInfo.cs
+/Users/muhammedbayindir/Projects/msbayindir/Entities/obj/Debug/net7.0/Entities.csproj.CoreCompileInputs.cache
+/Users/muhammedbayindir/Projects/msbayindir/Entities/obj/Debug/net7.0/Entities.dll
+/Users/muhammedbayindir/Projects/msbayindir/Entities/obj/Debug/net7.0/refint/Entities.dll
+/Users/muhammedbayindir/Projects/msbayindir/Entities/obj/Debug/net7.0/Entities.pdb
+/Users/muhammedbayindir/Projects/msbayindir/Entities/obj/Debug/net7.0/ref/Entities.dll

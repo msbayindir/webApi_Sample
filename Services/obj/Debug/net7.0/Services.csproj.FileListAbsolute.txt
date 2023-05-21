@@ -1,0 +1,12 @@
+/Users/muhammedbayindir/Projects/msbayindir/Services/bin/Debug/net7.0/Services.deps.json
+/Users/muhammedbayindir/Projects/msbayindir/Services/bin/Debug/net7.0/Services.dll
+/Users/muhammedbayindir/Projects/msbayindir/Services/bin/Debug/net7.0/Services.pdb
+/Users/muhammedbayindir/Projects/msbayindir/Services/obj/Debug/net7.0/Services.csproj.AssemblyReference.cache
+/Users/muhammedbayindir/Projects/msbayindir/Services/obj/Debug/net7.0/Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammedbayindir/Projects/msbayindir/Services/obj/Debug/net7.0/Services.AssemblyInfoInputs.cache
+/Users/muhammedbayindir/Projects/msbayindir/Services/obj/Debug/net7.0/Services.AssemblyInfo.cs
+/Users/muhammedbayindir/Projects/msbayindir/Services/obj/Debug/net7.0/Services.csproj.CoreCompileInputs.cache
+/Users/muhammedbayindir/Projects/msbayindir/Services/obj/Debug/net7.0/Services.dll
+/Users/muhammedbayindir/Projects/msbayindir/Services/obj/Debug/net7.0/refint/Services.dll
+/Users/muhammedbayindir/Projects/msbayindir/Services/obj/Debug/net7.0/Services.pdb
+/Users/muhammedbayindir/Projects/msbayindir/Services/obj/Debug/net7.0/ref/Services.dll
