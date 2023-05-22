@@ -3,6 +3,7 @@ using Entities.Models;
 using Microsoft.AspNetCore.Mvc;
 using Repositories.Contracts;
 using Repositories.EfCore;
+using Services.Contract;
 
 namespace WebApi.Controllers
 {
@@ -10,9 +11,9 @@ namespace WebApi.Controllers
 	[Route("api/product")]
 	public class ProductController:ControllerBase
 	{
-		private readonly IRepositoryManager _manager;
+		private readonly IServiceManager _manager;
 
-        public ProductController(IRepositoryManager manager)
+        public ProductController(IServiceManager manager)
         {
             this._manager = manager;
         }
@@ -23,18 +24,17 @@ namespace WebApi.Controllers
 		public IActionResult GetProducts()
 		{
             
-			return Ok(_manager.Product.GetProducts(false));
+			return Ok(_manager.productService.GetProducts(false));
 		}
         [HttpGet("{id}")]
         public IActionResult GetProduct([FromRoute(Name ="id")]int id)
         {
-            return Ok(_manager.Product.GetOneProductById(id,false));
+            return Ok(_manager.productService.GetOneProductById(id,false));
         }
         [HttpPost]
         public IActionResult AddProduct([FromBody]Product product)
         {
-            _manager.Product.CreateOneProduct(product);
-            _manager.Save();
+            _manager.productService.CreateOneProduct(product);
             return StatusCode(201,product);
         }
     }

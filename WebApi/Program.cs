@@ -11,8 +11,11 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.ConfigurSqlContext(builder.Configuration);
 builder.Services.AddSwaggerGen();
-builder.Services.AddScoped<IProductRepository, ProductRepository>();
-builder.Services.AddScoped<IRepositoryManager, RepositoryManager>();
+builder.Services.ConfigurRepositoryManager();
+builder.Services.ConfigurProductRepository();
+builder.Services.ConfigurServiceManager();
+builder.Services.ConfigurProductService();
+
 
 
 

@@ -10,3 +10,8 @@
 /Users/muhammedbayindir/Projects/msbayindir/Services/obj/Debug/net7.0/refint/Services.dll
 /Users/muhammedbayindir/Projects/msbayindir/Services/obj/Debug/net7.0/Services.pdb
 /Users/muhammedbayindir/Projects/msbayindir/Services/obj/Debug/net7.0/ref/Services.dll
+/Users/muhammedbayindir/Projects/msbayindir/Services/bin/Debug/net7.0/Entities.dll
+/Users/muhammedbayindir/Projects/msbayindir/Services/bin/Debug/net7.0/Repositories.dll
+/Users/muhammedbayindir/Projects/msbayindir/Services/bin/Debug/net7.0/Entities.pdb
+/Users/muhammedbayindir/Projects/msbayindir/Services/bin/Debug/net7.0/Repositories.pdb
+/Users/muhammedbayindir/Projects/msbayindir/Services/obj/Debug/net7.0/Services.csproj.CopyComplete
