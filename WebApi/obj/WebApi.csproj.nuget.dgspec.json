@@ -78,7 +78,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/muhammedbayindir/Projects/msbayindir/Services/Services.csproj": {
+                "projectPath": "/Users/muhammedbayindir/Projects/msbayindir/Services/Services.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -90,6 +94,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -10,3 +10,10 @@
 /Users/muhammedbayindir/Projects/msbayindir/Presentation/obj/Debug/net7.0/refint/Presentation.dll
 /Users/muhammedbayindir/Projects/msbayindir/Presentation/obj/Debug/net7.0/Presentation.pdb
 /Users/muhammedbayindir/Projects/msbayindir/Presentation/obj/Debug/net7.0/ref/Presentation.dll
+/Users/muhammedbayindir/Projects/msbayindir/Presentation/bin/Debug/net7.0/Entities.dll
+/Users/muhammedbayindir/Projects/msbayindir/Presentation/bin/Debug/net7.0/Repositories.dll
+/Users/muhammedbayindir/Projects/msbayindir/Presentation/bin/Debug/net7.0/Services.dll
+/Users/muhammedbayindir/Projects/msbayindir/Presentation/bin/Debug/net7.0/Services.pdb
+/Users/muhammedbayindir/Projects/msbayindir/Presentation/bin/Debug/net7.0/Entities.pdb
+/Users/muhammedbayindir/Projects/msbayindir/Presentation/bin/Debug/net7.0/Repositories.pdb
+/Users/muhammedbayindir/Projects/msbayindir/Presentation/obj/Debug/net7.0/Presentation.csproj.CopyComplete
