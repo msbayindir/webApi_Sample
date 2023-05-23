@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ii/eRLv6IrAKfnAKpNLy+cETuhhRCwmIos+GMEORWSuiTOAwyiv88Gy1Iq6GE4kQpFx178+kPFN6Cl9RYhqQOQ==",
+  "dgSpecHash": "pHHMwsCYaEJ6GR0XZU2fI401vd+QJ2pmGcUN15rIkLu2c94qN+pAR8X5LRNOizveP9OIVuMhNgwwaLA3oG0zDw==",
   "success": true,
   "projectFilePath": "/Users/muhammedbayindir/Projects/msbayindir/Services/Services.csproj",
   "expectedPackageFiles": [
@@ -37,6 +37,8 @@
     "/Users/muhammedbayindir/.nuget/packages/microsoft.sqlserver.server/1.0.0/microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "/Users/muhammedbayindir/.nuget/packages/microsoft.win32.registry/5.0.0/microsoft.win32.registry.5.0.0.nupkg.sha512",
     "/Users/muhammedbayindir/.nuget/packages/microsoft.win32.systemevents/5.0.0/microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "/Users/muhammedbayindir/.nuget/packages/nlog/5.1.3/nlog.5.1.3.nupkg.sha512",
+    "/Users/muhammedbayindir/.nuget/packages/nlog.extensions.logging/5.2.3/nlog.extensions.logging.5.2.3.nupkg.sha512",
     "/Users/muhammedbayindir/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
     "/Users/muhammedbayindir/.nuget/packages/system.configuration.configurationmanager/5.0.0/system.configuration.configurationmanager.5.0.0.nupkg.sha512",
     "/Users/muhammedbayindir/.nuget/packages/system.diagnostics.diagnosticsource/5.0.0/system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",

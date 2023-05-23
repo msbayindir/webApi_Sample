@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CLC8DK8hemVTMFg509D5D34X5cTfLrKYZkNFPyquqJckqmJS7UUGzmfcUTNxFjY1ZaPDbIQkWrX7eijJ28pxlg==",
+  "dgSpecHash": "VEoAAH6HVxc6e0/ZsJcEzruROi2KmZ3Pvo1qtNNUG+arzKnljrVNrnlOJJgP1gmNmj6j9pwqHI10gW+rD3FA4w==",
   "success": true,
   "projectFilePath": "/Users/muhammedbayindir/Projects/msbayindir/Presentation/Presentation.csproj",
   "expectedPackageFiles": [
@@ -60,6 +60,8 @@
     "/Users/muhammedbayindir/.nuget/packages/microsoft.win32.registry/5.0.0/microsoft.win32.registry.5.0.0.nupkg.sha512",
     "/Users/muhammedbayindir/.nuget/packages/microsoft.win32.systemevents/5.0.0/microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "/Users/muhammedbayindir/.nuget/packages/newtonsoft.json/9.0.1/newtonsoft.json.9.0.1.nupkg.sha512",
+    "/Users/muhammedbayindir/.nuget/packages/nlog/5.1.3/nlog.5.1.3.nupkg.sha512",
+    "/Users/muhammedbayindir/.nuget/packages/nlog.extensions.logging/5.2.3/nlog.extensions.logging.5.2.3.nupkg.sha512",
     "/Users/muhammedbayindir/.nuget/packages/runtime.native.system/4.0.0/runtime.native.system.4.0.0.nupkg.sha512",
     "/Users/muhammedbayindir/.nuget/packages/system.appcontext/4.1.0/system.appcontext.4.1.0.nupkg.sha512",
     "/Users/muhammedbayindir/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",

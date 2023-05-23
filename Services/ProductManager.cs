@@ -7,10 +7,12 @@ public class ProductManager : IProductService
 {
 
     private readonly IRepositoryManager _manager;
+    private readonly ILoggerService _logger;
 
-    public ProductManager(IRepositoryManager manager)
+    public ProductManager(IRepositoryManager manager, ILoggerService logger)
     {
         _manager = manager;
+        _logger = logger;
     }
 
     public Product CreateOneProduct(Product product)
@@ -23,7 +25,11 @@ public class ProductManager : IProductService
     public void DeleteOneProduct(int id, bool trackChange)
     {
         var entity = _manager.Product.GetOneProductById(id, trackChange).SingleOrDefault();
-        if (entity is null) throw new Exception($"Product {id} couldn't found.");
+        if (entity is null)
+        {
+            _logger.LogInfo($"Product {id} couldn't found.");
+            throw new Exception($"Product {id} couldn't found.");
+        }
 
         _manager.Product.DeleteOneProduct(entity);
         _manager.Save();
@@ -32,7 +38,11 @@ public class ProductManager : IProductService
     public Product GetOneProductById(int id, bool trackChange)
     {
         var entity = _manager.Product.GetOneProductById(id, trackChange).SingleOrDefault();
-        if (entity is null) throw new Exception($"Product {id} couldn't found.");
+        if (entity is null)
+        {
+            _logger.LogInfo($"Product {id} couldn't found.");
+            throw new Exception($"Product {id} couldn't found.");
+        }
         return entity;
     }
 

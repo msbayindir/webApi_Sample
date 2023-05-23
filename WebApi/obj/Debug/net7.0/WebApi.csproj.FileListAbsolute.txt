@@ -82,3 +82,6 @@
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/obj/Debug/net7.0/WebApi.pdb
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/obj/Debug/net7.0/WebApi.genruntimeconfig.cache
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/obj/Debug/net7.0/ref/WebApi.dll
+/Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/nLog.config
+/Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/NLog.dll
+/Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/NLog.Extensions.Logging.dll

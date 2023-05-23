@@ -1,11 +1,12 @@
-﻿using Repositories.Contracts;
+﻿using NLog;
+using Repositories.Contracts;
 using Repositories.EfCore;
 using WebApi.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
+LogManager.LoadConfiguration(String.Concat(Directory.GetCurrentDirectory(),"/nLog.config"));
 builder.Services
     .AddControllers()
     .AddApplicationPart(typeof(Presentation.AssemblyReferance).Assembly);
@@ -13,10 +14,12 @@ builder.Services
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.ConfigurSqlContext(builder.Configuration);
 builder.Services.AddSwaggerGen();
+
 builder.Services.ConfigurRepositoryManager();
 builder.Services.ConfigurProductRepository();
 builder.Services.ConfigurServiceManager();
 builder.Services.ConfigurProductService();
+builder.Services.ConfigurLoggerService();
 
 
 

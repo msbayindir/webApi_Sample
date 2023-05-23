@@ -13,7 +13,7 @@ namespace WebApi.Extensions
 		{
 			service.AddDbContext<RepositoryContext>(op =>
 			{
-				op.UseSqlServer(configur.GetConnectionString("sql"), b => b.MigrationsAssembly("WebApi"));
+				op.UseSqlServer(configur.GetConnectionString("sql"));
 			});
 		}
 
@@ -35,6 +35,9 @@ namespace WebApi.Extensions
         {
             service.AddScoped<IServiceManager, ServiceManager>();
         }
+        public static void ConfigurLoggerService(this IServiceCollection service) =>
+            service.AddSingleton<ILoggerService, LoggerManager>();
+       
     }
 }
 
