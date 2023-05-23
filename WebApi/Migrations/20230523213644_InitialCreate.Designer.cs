@@ -11,7 +11,7 @@ using Repositories.EfCore;
 namespace WebApi.Migrations
 {
     [DbContext(typeof(RepositoryContext))]
-    [Migration("20230521155103_InitialCreate")]
+    [Migration("20230523213644_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />

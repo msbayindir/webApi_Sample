@@ -24,9 +24,11 @@
 
   <ItemGroup>
     <None Remove="Extensions\" />
+    <None Remove="ContextFactory\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Extensions\" />
+    <Folder Include="ContextFactory\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Services\Services.csproj">
