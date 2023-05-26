@@ -1,4 +1,5 @@
-﻿using Entities.Models;
+﻿using Entities.Exceptions;
+using Entities.Models;
 using Repositories.Contracts;
 using Services.Contract;
 
@@ -41,7 +42,7 @@ public class ProductManager : IProductService
         if (entity is null)
         {
             _logger.LogInfo($"Product {id} couldn't found.");
-            throw new Exception($"Product {id} couldn't found.");
+            throw new ProductNotFoundException(id);
         }
         return entity;
     }
