@@ -25,7 +25,7 @@ namespace WebApi.Extensions
 							NotFoundException => StatusCodes.Status404NotFound,
 							_=>StatusCodes.Status500InternalServerError
 						};
-						logger.LogError($"Somting went wrong {contextFeature.Error}");
+						logger.LogError($"Somting went wrong {contextFeature.Error.Message}");
 						await context.Response.WriteAsync(new ErrorDetails()
 						{
 							Message = contextFeature.Error.Message,
@@ -35,7 +35,7 @@ namespace WebApi.Extensions
 					}
 
                 }
-				
+				 
 
 						
 				);

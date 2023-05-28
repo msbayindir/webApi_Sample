@@ -85,3 +85,5 @@
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/nLog.config
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/NLog.dll
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/NLog.Extensions.Logging.dll
+/Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/AutoMapper.dll
+/Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll

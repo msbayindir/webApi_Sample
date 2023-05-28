@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "VEoAAH6HVxc6e0/ZsJcEzruROi2KmZ3Pvo1qtNNUG+arzKnljrVNrnlOJJgP1gmNmj6j9pwqHI10gW+rD3FA4w==",
+  "dgSpecHash": "5xekR9VGYCCq9XNdHAeKIFCJIS5vEXtq56F+CWkohL8covjTvxSUCZIfjClRd4TYZR891f4OexqF1wkK8hEC7w==",
   "success": true,
   "projectFilePath": "/Users/muhammedbayindir/Projects/msbayindir/Presentation/Presentation.csproj",
   "expectedPackageFiles": [
+    "/Users/muhammedbayindir/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/muhammedbayindir/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "/Users/muhammedbayindir/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/muhammedbayindir/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",
     "/Users/muhammedbayindir/.nuget/packages/microsoft.aspnetcore.authentication.abstractions/2.2.0/microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
@@ -23,7 +25,7 @@
     "/Users/muhammedbayindir/.nuget/packages/microsoft.aspnetcore.routing.abstractions/2.2.0/microsoft.aspnetcore.routing.abstractions.2.2.0.nupkg.sha512",
     "/Users/muhammedbayindir/.nuget/packages/microsoft.aspnetcore.webutilities/2.2.0/microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
     "/Users/muhammedbayindir/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "/Users/muhammedbayindir/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/muhammedbayindir/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/muhammedbayindir/.nuget/packages/microsoft.data.sqlclient/5.0.1/microsoft.data.sqlclient.5.0.1.nupkg.sha512",
     "/Users/muhammedbayindir/.nuget/packages/microsoft.data.sqlclient.sni.runtime/5.0.1/microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
     "/Users/muhammedbayindir/.nuget/packages/microsoft.dotnet.platformabstractions/2.1.0/microsoft.dotnet.platformabstractions.2.1.0.nupkg.sha512",

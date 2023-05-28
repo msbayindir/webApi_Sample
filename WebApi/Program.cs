@@ -5,7 +5,6 @@ using Services.Contract;
 using WebApi.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
-var a = 1;
 // Add services to the container.
 LogManager.LoadConfiguration(String.Concat(Directory.GetCurrentDirectory(),"/nLog.config"));
 builder.Services
@@ -21,7 +20,7 @@ builder.Services.ConfigurProductRepository();
 builder.Services.ConfigurServiceManager();
 builder.Services.ConfigurProductService();
 builder.Services.ConfigurLoggerService();
-
+builder.Services.AddAutoMapper(typeof(Program));
 
 
 

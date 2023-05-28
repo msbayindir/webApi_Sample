@@ -1,5 +1,7 @@
 ﻿using System;
+using Entities.DataTransferObjects;
 using Entities.Models;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Services.Contract;
 
@@ -32,6 +34,20 @@ namespace Presentation.Controllers
         {
             _serviceManager.productService.CreateOneProduct(product);
             return StatusCode(201, product);
+        }
+        [HttpDelete("{id:int}")]
+        public IActionResult UpdateProduct([FromRoute(Name = "id")] int id)
+        {
+
+            _serviceManager.productService.DeleteOneProduct(id, false);
+            return StatusCode(200);
+        }
+        [HttpPut("{id:int}")]
+        public IActionResult UpdateProduct([FromBody] ProductDtoForUpdate productDto,[FromRoute(Name ="id")]int id)
+        {
+            if (productDto is null) return BadRequest();
+            _serviceManager.productService.UpdateOneProduct(id, productDto, false);
+            return StatusCode(200, productDto);
         }
     }
 }

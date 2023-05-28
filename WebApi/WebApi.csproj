@@ -25,10 +25,14 @@
   <ItemGroup>
     <None Remove="Extensions\" />
     <None Remove="ContextFactory\" />
+    <None Remove="Utilities\" />
+    <None Remove="Utilities\AutoMapper\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Extensions\" />
     <Folder Include="ContextFactory\" />
+    <Folder Include="Utilities\" />
+    <Folder Include="Utilities\AutoMapper\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Services\Services.csproj">
