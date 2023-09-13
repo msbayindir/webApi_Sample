@@ -20,11 +20,12 @@ public class ProductManager : IProductService
         _mapper = mapper;
     }
 
-    public Product CreateOneProduct(Product product)
+    public ProductDto CreateOneProduct(ProductDtoForInsertion product)
     {
-        _manager.Product.CreateOneProduct(product);
+
+        _manager.Product.CreateOneProduct(_mapper.Map<Product>(product));
         _manager.Save();
-        return product;
+        return _mapper.Map<ProductDto>(product);
     }
 
     public void DeleteOneProduct(int id, bool trackChange)
@@ -36,17 +37,18 @@ public class ProductManager : IProductService
         _manager.Save();
     }
 
-    public Product GetOneProductById(int id, bool trackChange)
+    public ProductDto GetOneProductById(int id, bool trackChange)
     {
         var entity = _manager.Product.GetOneProductById(id, trackChange).SingleOrDefault();
         if (entity is null) throw new ProductNotFoundException(id);
         
-        return entity;
+        return _mapper.Map<ProductDto>(entity);
     }
 
-    public IQueryable<Product> GetProducts(bool trackChange)
+    public IQueryable<ProductDto> GetProducts(bool trackChange)
     {
-       return _manager.Product.GetProducts(trackChange);
+        var a = _manager.Product.GetProducts(trackChange).SingleOrDefault();
+        return (IQueryable<ProductDto>)_mapper.Map<ProductDto>(a);
 
     }
 

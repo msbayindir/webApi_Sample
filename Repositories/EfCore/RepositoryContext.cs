@@ -10,7 +10,7 @@ namespace Repositories.EfCore
 		public DbSet<Product> Products { get; set; }
 		public RepositoryContext(DbContextOptions options):base(options)
 		{
-
+			
 		}
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

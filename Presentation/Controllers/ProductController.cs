@@ -30,7 +30,7 @@ namespace Presentation.Controllers
             return Ok(_serviceManager.productService.GetOneProductById(id, false));
         }
         [HttpPost]
-        public IActionResult AddProduct([FromBody] Product product)
+        public IActionResult AddProduct([FromBody] ProductDtoForInsertion product)
         {
             _serviceManager.productService.CreateOneProduct(product);
             return StatusCode(201, product);

@@ -6,9 +6,9 @@ namespace Services.Contract
 {
 	public interface IProductService
 	{
-        IQueryable<Product> GetProducts(bool trackChange);
-        Product GetOneProductById(int id, bool trackChange);
-        Product CreateOneProduct(Product product);
+        IQueryable<ProductDto> GetProducts(bool trackChange);
+        ProductDto GetOneProductById(int id, bool trackChange);
+        ProductDto CreateOneProduct(ProductDtoForInsertion product);
         void UpdateOneProduct(int id,ProductDtoForUpdate productDto,bool trackChange);
         void DeleteOneProduct(int id,bool trackChange);
     }
