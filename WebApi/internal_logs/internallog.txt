@@ -55,3 +55,45 @@
 2023-09-13 16:28:48.7356 Info Message Template Auto Format enabled
 2023-09-13 16:28:48.8014 Info Registered target NLog.Targets.FileTarget(Name=logfile)
 2023-09-13 16:28:48.8733 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2023-09-14 02:46:20.6117 Info Message Template Auto Format enabled
+2023-09-14 02:46:20.6773 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-14 02:46:20.7977 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2023-09-14 02:48:02.6500 Info Message Template Auto Format enabled
+2023-09-14 02:48:02.7143 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-14 02:48:02.7857 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2023-09-14 02:49:24.6101 Info Message Template Auto Format enabled
+2023-09-14 02:49:24.6739 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-14 02:49:24.7458 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2023-09-14 02:51:44.8537 Info Message Template Auto Format enabled
+2023-09-14 02:51:44.9198 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-14 02:51:44.9907 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2023-09-14 02:54:17.5833 Info Message Template Auto Format enabled
+2023-09-14 02:54:17.6484 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-14 02:54:17.7234 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2023-09-14 02:54:49.7231 Info Message Template Auto Format enabled
+2023-09-14 02:54:49.7842 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-14 02:54:49.8624 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2023-09-14 02:55:06.9640 Info Message Template Auto Format enabled
+2023-09-14 02:55:07.0203 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-14 02:55:07.0874 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2023-09-14 02:56:20.0590 Info Message Template Auto Format enabled
+2023-09-14 02:56:20.1138 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-14 02:56:20.1805 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2023-09-14 02:56:39.5256 Info Message Template Auto Format enabled
+2023-09-14 02:56:39.5799 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-14 02:56:39.6413 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2023-09-14 02:58:12.5790 Info Message Template Auto Format enabled
+2023-09-14 02:58:12.6338 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-14 02:58:12.6946 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2023-09-14 03:10:36.0114 Info Message Template Auto Format enabled
+2023-09-14 03:10:36.0794 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-14 03:10:36.1412 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2023-09-14 03:12:13.7202 Info Message Template Auto Format enabled
+2023-09-14 03:12:13.7775 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-14 03:12:13.8374 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2023-09-14 16:55:05.8838 Info Message Template Auto Format enabled
+2023-09-14 16:55:05.9496 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-14 16:55:06.0137 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2023-09-19 00:37:16.0381 Info Message Template Auto Format enabled
+2023-09-19 00:37:16.1057 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-19 00:37:16.2155 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config

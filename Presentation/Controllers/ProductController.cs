@@ -3,6 +3,7 @@ using Entities.DataTransferObjects;
 using Entities.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Services.Contract;
 
 namespace Presentation.Controllers
@@ -19,20 +20,25 @@ namespace Presentation.Controllers
         }
 
         [HttpGet]
-        public IActionResult GetProducts()
+        public async Task<IActionResult> GetProducts()
         {
 
-            return Ok(_serviceManager.productService.GetProducts(false));
+            return Ok(await _serviceManager.productService.GetProductsAsync(false));
         }
         [HttpGet("{id}")]
-        public IActionResult GetProduct([FromRoute(Name = "id")] int id)
+        public async Task<IActionResult> GetProduct([FromRoute(Name = "id")] int id)
         {
-            return Ok(_serviceManager.productService.GetOneProductById(id, false));
+            return Ok(await _serviceManager.productService.GetOneProductByIdAsync(id, false));
         }
         [HttpPost]
-        public IActionResult AddProduct([FromBody] ProductDtoForInsertion product)
+        public async Task<IActionResult> AddProduct([FromBody] ProductDtoForInsertion product)
         {
-            _serviceManager.productService.CreateOneProduct(product);
+            if(product is null) {
+                return BadRequest();
+            }
+            if (!ModelState.IsValid) return UnprocessableEntity(ModelState);
+
+            await _serviceManager.productService.CreateOneProductAsync(product);
             return StatusCode(201, product);
         }
         [HttpDelete("{id:int}")]

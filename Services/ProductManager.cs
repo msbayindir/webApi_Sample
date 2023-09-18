@@ -20,45 +20,45 @@ public class ProductManager : IProductService
         _mapper = mapper;
     }
 
-    public ProductDto CreateOneProduct(ProductDtoForInsertion product)
+    public async Task<ProductDto> CreateOneProductAsync(ProductDtoForInsertion product)
     {
 
         _manager.Product.CreateOneProduct(_mapper.Map<Product>(product));
-        _manager.Save();
+        await  _manager.SaveAsync();
         return _mapper.Map<ProductDto>(product);
     }
 
-    public void DeleteOneProduct(int id, bool trackChange)
+    public async void DeleteOneProduct(int id, bool trackChange)
     {
-        var entity = _manager.Product.GetOneProductById(id, trackChange).SingleOrDefault();
+        var entity = await _manager.Product.GetOneProductByIdAsync(id, trackChange);
         if (entity is null) throw new ProductNotFoundException(id);
         
         _manager.Product.DeleteOneProduct(entity);
-        _manager.Save();
+        await _manager.SaveAsync();
     }
 
-    public ProductDto GetOneProductById(int id, bool trackChange)
+    public async Task<ProductDto> GetOneProductByIdAsync(int id, bool trackChange)
     {
-        var entity = _manager.Product.GetOneProductById(id, trackChange).SingleOrDefault();
+        var entity =await _manager.Product.GetOneProductByIdAsync(id, trackChange);
         if (entity is null) throw new ProductNotFoundException(id);
-        
         return _mapper.Map<ProductDto>(entity);
     }
 
-    public IQueryable<ProductDto> GetProducts(bool trackChange)
+    public async Task<IEnumerable<ProductDto>> GetProductsAsync(bool trackChange)
     {
-        var a = _manager.Product.GetProducts(trackChange).SingleOrDefault();
-        return (IQueryable<ProductDto>)_mapper.Map<ProductDto>(a);
+
+        var a = await _manager.Product.GetProductsAsync(trackChange);
+        return _mapper.Map<IEnumerable<ProductDto>>(a);
 
     }
 
-    public void UpdateOneProduct(int id, ProductDtoForUpdate productDto, bool trackChange)
+    public async void UpdateOneProduct(int id, ProductDtoForUpdate productDto, bool trackChange)
     {
-        var entity = _manager.Product.GetOneProductById(id,trackChange).FirstOrDefault();
+        var entity = await _manager.Product.GetOneProductByIdAsync(id, trackChange);
         if (entity is null) throw new ProductNotFoundException(id);
         entity = _mapper.Map<Product>(productDto);
         _manager.Product.Update(entity);
-        _manager.Save();
+        await _manager.SaveAsync();
 
     }
 

@@ -1,4 +1,5 @@
-﻿using NLog;
+﻿using Microsoft.AspNetCore.Mvc;
+using NLog;
 using Repositories.Contracts;
 using Repositories.EfCore;
 using Services.Contract;
@@ -11,6 +12,10 @@ builder.Services
     .AddControllers()
     .AddApplicationPart(typeof(Presentation.AssemblyReferance).Assembly);
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.Configure<ApiBehaviorOptions>(opt => {
+
+    opt.SuppressModelStateInvalidFilter = true;
+});
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.ConfigurSqlContext(builder.Configuration);
 builder.Services.AddSwaggerGen();

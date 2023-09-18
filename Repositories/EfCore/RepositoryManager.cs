@@ -17,9 +17,9 @@ namespace Repositories.EfCore
 
         public IProductRepository Product => repository;
 
-        public void Save()
+        public async Task SaveAsync()
         {
-            context.SaveChanges();
+            await context.SaveChangesAsync();
         }
     }
 }

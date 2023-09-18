@@ -1,10 +1,4 @@
-/Users/muhammedbayindir/Projects/msbayindir/WebApi/obj/Debug/net7.0/WebApi.csproj.AssemblyReference.cache
-/Users/muhammedbayindir/Projects/msbayindir/WebApi/obj/Debug/net7.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig
-/Users/muhammedbayindir/Projects/msbayindir/WebApi/obj/Debug/net7.0/WebApi.AssemblyInfoInputs.cache
-/Users/muhammedbayindir/Projects/msbayindir/WebApi/obj/Debug/net7.0/WebApi.AssemblyInfo.cs
-/Users/muhammedbayindir/Projects/msbayindir/WebApi/obj/Debug/net7.0/WebApi.csproj.CoreCompileInputs.cache
-/Users/muhammedbayindir/Projects/msbayindir/WebApi/obj/Debug/net7.0/WebApi.MvcApplicationPartsAssemblyInfo.cs
-/Users/muhammedbayindir/Projects/msbayindir/WebApi/obj/Debug/net7.0/WebApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/nLog.config
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/appsettings.Development.json
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/appsettings.json
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/WebApi
@@ -12,6 +6,8 @@
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/WebApi.runtimeconfig.json
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/WebApi.dll
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/WebApi.pdb
+/Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/AutoMapper.dll
+/Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/Azure.Core.dll
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/Azure.Identity.dll
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/Humanizer.dll
@@ -36,6 +32,8 @@
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/NLog.dll
+/Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/NLog.Extensions.Logging.dll
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -68,6 +66,13 @@
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/Repositories.pdb
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/Presentation.pdb
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/Entities.pdb
+/Users/muhammedbayindir/Projects/msbayindir/WebApi/obj/Debug/net7.0/WebApi.csproj.AssemblyReference.cache
+/Users/muhammedbayindir/Projects/msbayindir/WebApi/obj/Debug/net7.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammedbayindir/Projects/msbayindir/WebApi/obj/Debug/net7.0/WebApi.AssemblyInfoInputs.cache
+/Users/muhammedbayindir/Projects/msbayindir/WebApi/obj/Debug/net7.0/WebApi.AssemblyInfo.cs
+/Users/muhammedbayindir/Projects/msbayindir/WebApi/obj/Debug/net7.0/WebApi.csproj.CoreCompileInputs.cache
+/Users/muhammedbayindir/Projects/msbayindir/WebApi/obj/Debug/net7.0/WebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/muhammedbayindir/Projects/msbayindir/WebApi/obj/Debug/net7.0/WebApi.MvcApplicationPartsAssemblyInfo.cache
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/obj/Debug/net7.0/staticwebassets/msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/obj/Debug/net7.0/staticwebassets/msbuild.build.WebApi.props
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.WebApi.props
@@ -82,8 +87,3 @@
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/obj/Debug/net7.0/WebApi.pdb
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/obj/Debug/net7.0/WebApi.genruntimeconfig.cache
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/obj/Debug/net7.0/ref/WebApi.dll
-/Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/nLog.config
-/Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/NLog.dll
-/Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/NLog.Extensions.Logging.dll
-/Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/AutoMapper.dll
-/Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll

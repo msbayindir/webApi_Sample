@@ -1,7 +1,7 @@
 ﻿using System;
 using Entities.Models;
+using Microsoft.EntityFrameworkCore;
 using Repositories.Contracts;
-
 namespace Repositories.EfCore
 {
 	public class ProductRepository:RepositoryBase<Product>,IProductRepository
@@ -18,15 +18,19 @@ namespace Repositories.EfCore
         public void DeleteOneProduct(Product product) => Delete(product);
 
 
-        public IQueryable<Product> GetProducts(bool trackChange) => GetValues(trackChange);
-      
+        public async Task<IEnumerable<Product>> GetProductsAsync(bool trackChange)
+        {
+            return await GetValues(trackChange).ToListAsync();
+        }
 
-        public IQueryable<Product> GetOneProductById(int id, bool trackChange) =>
-            FindByConditional(b => b.Id.Equals(id), trackChange);
+        public async Task<Product> GetOneProductByIdAsync(int id, bool trackChange) =>
+            await FindByConditional(b => b.Id.Equals(id), trackChange).SingleOrDefaultAsync();
 
 
         public void UpdateOneProduct(Product product)=>
          Update(product);
+
+        
     }
 }
 
