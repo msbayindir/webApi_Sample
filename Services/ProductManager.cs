@@ -31,7 +31,10 @@ public class ProductManager : IProductService
     public async void DeleteOneProduct(int id, bool trackChange)
     {
         var entity = await _manager.Product.GetOneProductByIdAsync(id, trackChange);
-        if (entity is null) throw new ProductNotFoundException(id);
+        if (entity is null)
+        {
+            throw new ProductNotFoundException(id);
+        }
         
         _manager.Product.DeleteOneProduct(entity);
         await _manager.SaveAsync();

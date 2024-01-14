@@ -24,6 +24,7 @@ namespace Presentation.Controllers
         {
 
             return Ok(await _serviceManager.productService.GetProductsAsync(false));
+
         }
         [HttpGet("{id}")]
         public async Task<IActionResult> GetProduct([FromRoute(Name = "id")] int id)
@@ -35,6 +36,7 @@ namespace Presentation.Controllers
         {
             if(product is null) {
                 return BadRequest();
+                //Good
             }
             if (!ModelState.IsValid) return UnprocessableEntity(ModelState);
 
