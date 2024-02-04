@@ -4,6 +4,7 @@ using Entities.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Presentation.ActionsFilters;
 using Services.Contract;
 
 namespace Presentation.Controllers
@@ -22,7 +23,7 @@ namespace Presentation.Controllers
         [HttpGet]
         public async Task<IActionResult> GetProducts()
         {
-
+            
             return Ok(await _serviceManager.productService.GetProductsAsync(false));
         }
         [HttpGet("{id}")]
@@ -30,14 +31,11 @@ namespace Presentation.Controllers
         {
             return Ok(await _serviceManager.productService.GetOneProductByIdAsync(id, false));
         }
+        [ServiceFilter(typeof(ValidationFilterAttribute))]
         [HttpPost]
         public async Task<IActionResult> AddProduct([FromBody] ProductDtoForInsertion product)
         {
-            if(product is null) {
-                return BadRequest();
-            }
-            if (!ModelState.IsValid) return UnprocessableEntity(ModelState);
-
+         
             await _serviceManager.productService.CreateOneProductAsync(product);
             return StatusCode(201, product);
         }
@@ -48,10 +46,10 @@ namespace Presentation.Controllers
             _serviceManager.productService.DeleteOneProduct(id, false);
             return StatusCode(200);
         }
+        [ServiceFilter(typeof(ValidationFilterAttribute))]
         [HttpPut("{id:int}")]
         public IActionResult UpdateProduct([FromBody] ProductDtoForUpdate productDto,[FromRoute(Name ="id")]int id)
         {
-            if (productDto is null) return BadRequest();
             _serviceManager.productService.UpdateOneProduct(id, productDto, false);
             return StatusCode(200, productDto);
         }
