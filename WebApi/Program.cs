@@ -13,11 +13,11 @@ builder.Services
     .AddControllers()
     .AddApplicationPart(typeof(Presentation.AssemblyReferance).Assembly);
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddScoped<ValidationFilterAttribute>();
 builder.Services.Configure<ApiBehaviorOptions>(opt => {
     
     opt.SuppressModelStateInvalidFilter = true;
 });
+builder.Services.ConfigureActionFilter();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.ConfigurSqlContext(builder.Configuration);
 builder.Services.AddSwaggerGen();

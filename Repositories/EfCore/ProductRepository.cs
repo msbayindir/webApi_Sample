@@ -23,9 +23,7 @@ namespace Repositories.EfCore
             return await GetValues(trackChange).ToListAsync();
         }
 
-        public async Task<Product> GetOneProductByIdAsync(int id, bool trackChange) =>
-            await FindByConditional(b => b.Id.Equals(id), trackChange).SingleOrDefaultAsync();
-
+        public async Task<Product?> GetOneProductByIdAsync(int id, bool trackChange) => await FindByConditional(b => b.Id.Equals(id), trackChange).SingleOrDefaultAsync();
 
         public void UpdateOneProduct(Product product)=>
          Update(product);

@@ -28,7 +28,7 @@ public class ProductManager : IProductService
         return _mapper.Map<ProductDto>(product);
     }
 
-    public async void DeleteOneProduct(int id, bool trackChange)
+    public async Task DeleteOneProduct(int id, bool trackChange)
     {
         var entity = await _manager.Product.GetOneProductByIdAsync(id, trackChange);
         if (entity is null) throw new ProductNotFoundException(id);

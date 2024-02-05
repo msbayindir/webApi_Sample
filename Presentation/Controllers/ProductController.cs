@@ -9,6 +9,7 @@ using Services.Contract;
 
 namespace Presentation.Controllers
 {
+    [ServiceFilter(typeof(LogFilterAttribute))]
 	[ApiController]
 	[Route("api/product")]
 	public class ProductController:ControllerBase
@@ -40,10 +41,10 @@ namespace Presentation.Controllers
             return StatusCode(201, product);
         }
         [HttpDelete("{id:int}")]
-        public IActionResult UpdateProduct([FromRoute(Name = "id")] int id)
+        public async  Task<IActionResult> DeleteProduct([FromRoute(Name = "id")] int id)
         {
 
-            _serviceManager.productService.DeleteOneProduct(id, false);
+            await _serviceManager.productService.DeleteOneProduct(id, false);
             return StatusCode(200);
         }
         [ServiceFilter(typeof(ValidationFilterAttribute))]
