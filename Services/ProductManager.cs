@@ -2,6 +2,7 @@
 using Entities.DataTransferObjects;
 using Entities.Exceptions;
 using Entities.Models;
+using Entities.RequestFeatrues;
 using Repositories.Contracts;
 using Services.Contract;
 
@@ -44,11 +45,12 @@ public class ProductManager : IProductService
         return _mapper.Map<ProductDto>(entity);
     }
 
-    public async Task<IEnumerable<ProductDto>> GetProductsAsync(bool trackChange)
+    public async   Task<(IEnumerable<ProductDto>,MetaData)> GetProductsAsync(ProductParameters parameters,bool trackChange)
     {
 
-        var a = await _manager.Product.GetProductsAsync(trackChange);
-        return _mapper.Map<IEnumerable<ProductDto>>(a);
+        var a = await _manager.Product.GetProductsAsync(parameters,trackChange);
+        var y = _mapper.Map<IEnumerable<ProductDto>>(a);
+        return (y,a.MetaData);
 
     }
 

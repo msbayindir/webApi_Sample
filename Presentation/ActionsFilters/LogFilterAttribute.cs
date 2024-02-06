@@ -21,14 +21,14 @@ public class LogFilterAttribute:ActionFilterAttribute
         _LoggerService.LogInfo(Log("OnActionExecuting",context.RouteData));
     }
 
-    public string Log(string modelName, RouteData routeData)
+    private string Log(string modelName, RouteData routeData)
     {
         var logDetail = new LogDetails()
         {
             ModelName = modelName,
             Action = routeData.Values["action"],
             Controller = routeData.Values["controller"],
-            Id = routeData.Values["ıd"]
+            Id = routeData.Values["Id"]
         };
         return logDetail.ToString();
     }

@@ -1,11 +1,15 @@
 ﻿using System;
+using System.IdentityModel.Tokens.Jwt;
 using Entities.DataTransferObjects;
 using Entities.Models;
+using Entities.RequestFeatrues;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Newtonsoft.Json;
 using Presentation.ActionsFilters;
 using Services.Contract;
+using JsonSerializer = System.Text.Json.JsonSerializer;
 
 namespace Presentation.Controllers
 {
@@ -22,10 +26,14 @@ namespace Presentation.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetProducts()
+        public async Task<IActionResult> GetProducts([FromQuery] ProductParameters parameters)
         {
+            var pagedResult = await _serviceManager
+                .productService
+                .GetProductsAsync(parameters, false);
             
-            return Ok(await _serviceManager.productService.GetProductsAsync(false));
+            Response.Headers.Add("X-Pagination",JsonSerializer.Serialize(pagedResult.Item2));
+            return Ok(pagedResult.Item1);
         }
         [HttpGet("{id}")]
         public async Task<IActionResult> GetProduct([FromRoute(Name = "id")] int id)
