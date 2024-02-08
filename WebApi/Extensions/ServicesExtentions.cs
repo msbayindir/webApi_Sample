@@ -15,6 +15,7 @@ namespace WebApi.Extensions
 			service.AddDbContext<RepositoryContext>(op =>
 			{
 				op.UseSqlServer(configur.GetConnectionString("sql"));
+
 			});
 		}
 

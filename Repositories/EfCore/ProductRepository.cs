@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 using Repositories.Contracts;
 namespace Repositories.EfCore
 {
-	public class ProductRepository:RepositoryBase<Product>,IProductRepository
+	public sealed class ProductRepository:RepositoryBase<Product>,IProductRepository
 	{
 
 		public ProductRepository(RepositoryContext context):base(context)
@@ -21,8 +21,10 @@ namespace Repositories.EfCore
 
         public async Task<PagedList<Product>> GetProductsAsync(ProductParameters parameters,bool trackChange)
         {
-	        var products =  await GetValues(trackChange)
+	        var products = await GetValues(trackChange)
+		        .FilterProduct(parameters.MinPrice, parameters.MaxPrice)
 		        .ToListAsync();
+		        
 	       return PagedList<Product>
 		       .ToPagedList(products,parameters.PageNumber,parameters.PageSize);
 

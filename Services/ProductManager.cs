@@ -47,7 +47,7 @@ public class ProductManager : IProductService
 
     public async   Task<(IEnumerable<ProductDto>,MetaData)> GetProductsAsync(ProductParameters parameters,bool trackChange)
     {
-
+        if(!parameters.ValidPriceRange)throw new PriceOutofRangeException();
         var a = await _manager.Product.GetProductsAsync(parameters,trackChange);
         var y = _mapper.Map<IEnumerable<ProductDto>>(a);
         return (y,a.MetaData);
