@@ -3,6 +3,8 @@ using Entities.Models;
 using Entities.RequestFeatrues;
 using Microsoft.EntityFrameworkCore;
 using Repositories.Contracts;
+using Repositories.EfCore.Extensions;
+
 namespace Repositories.EfCore
 {
 	public sealed class ProductRepository:RepositoryBase<Product>,IProductRepository
@@ -23,6 +25,7 @@ namespace Repositories.EfCore
         {
 	        var products = await GetValues(trackChange)
 		        .FilterProduct(parameters.MinPrice, parameters.MaxPrice)
+		        .Search(parameters.SearchTerm)
 		        .ToListAsync();
 		        
 	       return PagedList<Product>
