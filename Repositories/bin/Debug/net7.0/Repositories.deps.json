@@ -11,7 +11,8 @@
           "Entities": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "7.0.5",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.5",
-          "Microsoft.EntityFrameworkCore.Tools": "7.0.5"
+          "Microsoft.EntityFrameworkCore.Tools": "7.0.5",
+          "System.Linq.Dynamic.Core": "1.3.9-preview-02"
         },
         "runtime": {
           "Repositories.dll": {}
@@ -522,6 +523,14 @@
           "System.Threading.Tasks": "4.3.0"
         }
       },
+      "System.Linq.Dynamic.Core/1.3.9-preview-02": {
+        "runtime": {
+          "lib/net7.0/System.Linq.Dynamic.Core.dll": {
+            "assemblyVersion": "1.3.9.0",
+            "fileVersion": "1.3.9.0"
+          }
+        }
+      },
       "System.Memory/4.5.4": {},
       "System.Memory.Data/1.0.2": {
         "dependencies": {
@@ -1012,6 +1021,13 @@
       "sha512": "sha512-3qjaHvxQPDpSOYICjUoTsmoq5u6QJAFRUITgeT/4gqkF1bajbSmb1kwSxEA8AHlofqgcKJcM8udgieRNhaJ5Cg==",
       "path": "system.io/4.3.0",
       "hashPath": "system.io.4.3.0.nupkg.sha512"
+    },
+    "System.Linq.Dynamic.Core/1.3.9-preview-02": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6p4EjHQlqYOqzzm5ba82Tcvj4KeO+HsT4qhD6suNZLujbmnKejLOzcoApGcRIV92iQKKn1SZk+6Joq2XkVokwg==",
+      "path": "system.linq.dynamic.core/1.3.9-preview-02",
+      "hashPath": "system.linq.dynamic.core.1.3.9-preview-02.nupkg.sha512"
     },
     "System.Memory/4.5.4": {
       "type": "package",

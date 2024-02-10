@@ -1,6 +1,5 @@
 using Entities.Models;
-using Microsoft.IdentityModel.Tokens;
-
+using System.Linq.Dynamic.Core;
 namespace Repositories.EfCore.Extensions;
 
 public static class ProductRepositoryExtensions
@@ -18,4 +17,17 @@ public static class ProductRepositoryExtensions
                     .ToLower()))
             : products;
 
+    public static IQueryable<Product> Sort(this IQueryable<Product> products, string orderByQueryString)
+    {
+        if (string.IsNullOrWhiteSpace(orderByQueryString))
+            return products.OrderBy(b => b.Id);
+
+        var orderQuery = OrderQueryBuilder
+            .CreateOrderQuery<Product>(orderByQueryString);
+
+        if (orderQuery is null)
+            return products.OrderBy(b => b.Id);
+
+        return products.OrderBy(orderQuery);
+    }
 }

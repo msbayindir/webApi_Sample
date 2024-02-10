@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PALvt2j/BJF0F59dhgMpEO2xjCyEsUCZlEd5lDeAgvpq3XPHrFsMos9v7sOhpezsx0dB7sMRnxYpdpwR0DrUxw==",
+  "dgSpecHash": "HQzNoogWZAMtrdUBVOxnmV641MkGoqPBisLGLDtRbK42O1TAV7oU8ntakdNmQLwn3KejHd8mKW2bg0KsjA4H3g==",
   "success": true,
   "projectFilePath": "/Users/muhammedbayindir/Projects/msbayindir/Services/Services.csproj",
   "expectedPackageFiles": [
@@ -49,6 +49,7 @@
     "/Users/muhammedbayindir/.nuget/packages/system.globalization/4.3.0/system.globalization.4.3.0.nupkg.sha512",
     "/Users/muhammedbayindir/.nuget/packages/system.identitymodel.tokens.jwt/6.21.0/system.identitymodel.tokens.jwt.6.21.0.nupkg.sha512",
     "/Users/muhammedbayindir/.nuget/packages/system.io/4.3.0/system.io.4.3.0.nupkg.sha512",
+    "/Users/muhammedbayindir/.nuget/packages/system.linq.dynamic.core/1.3.9-preview-02/system.linq.dynamic.core.1.3.9-preview-02.nupkg.sha512",
     "/Users/muhammedbayindir/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
     "/Users/muhammedbayindir/.nuget/packages/system.memory.data/1.0.2/system.memory.data.1.0.2.nupkg.sha512",
     "/Users/muhammedbayindir/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",

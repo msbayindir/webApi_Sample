@@ -6,4 +6,9 @@ public class ProductParameters : RequestParameters
     public uint MaxPrice { get; set; } = 1000;
     public bool ValidPriceRange => MaxPrice > MinPrice;
     public String? SearchTerm { get; set; }
+
+    public ProductParameters()
+    {
+        OrderBy = "id";
+    }
 }

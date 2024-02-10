@@ -28,7 +28,7 @@ builder.Services.ConfigurServiceManager();
 builder.Services.ConfigurProductService();
 builder.Services.ConfigurLoggerService();
 builder.Services.AddAutoMapper(typeof(Program));
-
+builder.Services.ConfigureDataShapper();
 
 
 

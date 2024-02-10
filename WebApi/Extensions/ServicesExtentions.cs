@@ -1,4 +1,5 @@
 ﻿using System;
+using Entities.DataTransferObjects;
 using Microsoft.EntityFrameworkCore;
 using Presentation.ActionsFilters;
 using Repositories.Contracts;
@@ -46,7 +47,12 @@ namespace WebApi.Extensions
 	        service.AddSingleton<LogFilterAttribute>();
 
         }
+        public static void ConfigureDataShapper(this IServiceCollection service)
+        {
+	        service.AddScoped<IDataShaper<ProductDto>,DataShaper<ProductDto>>();
 
+
+        }
        
     }
 }

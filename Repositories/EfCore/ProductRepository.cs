@@ -26,6 +26,7 @@ namespace Repositories.EfCore
 	        var products = await GetValues(trackChange)
 		        .FilterProduct(parameters.MinPrice, parameters.MaxPrice)
 		        .Search(parameters.SearchTerm)
+		        .Sort(parameters.OrderBy)
 		        .ToListAsync();
 		        
 	       return PagedList<Product>

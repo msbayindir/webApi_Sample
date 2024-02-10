@@ -87,3 +87,4 @@
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/obj/Debug/net7.0/WebApi.pdb
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/obj/Debug/net7.0/WebApi.genruntimeconfig.cache
 /Users/muhammedbayindir/Projects/msbayindir/WebApi/obj/Debug/net7.0/ref/WebApi.dll
+/Users/muhammedbayindir/Projects/msbayindir/WebApi/bin/Debug/net7.0/System.Linq.Dynamic.Core.dll
