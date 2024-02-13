@@ -11,6 +11,7 @@ namespace Repositories.Contracts
         public void CreateOneProduct(Product product);
         public void UpdateOneProduct(Product product);
         public void DeleteOneProduct(Product product);
+        Task<List<Product>> GetProductsAsync(bool trackChange);
 
     }
 }

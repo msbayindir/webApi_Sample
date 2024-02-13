@@ -299,3 +299,640 @@
 2024-02-09 23:17:19.4996 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
 2024-02-09 23:22:23.3336 Info AppDomain Shutting down. LogFactory closing...
 2024-02-09 23:22:23.3378 Info LogFactory has been closed.
+2024-02-12 01:16:18.2079 Info Message Template Auto Format enabled
+2024-02-12 01:16:18.2560 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 01:16:18.3092 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 01:17:17.4798 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 01:17:17.4850 Info LogFactory has been closed.
+2024-02-12 01:17:19.7627 Info Message Template Auto Format enabled
+2024-02-12 01:17:19.8631 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 01:17:19.9375 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 01:17:39.3827 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 01:17:39.3878 Info LogFactory has been closed.
+2024-02-12 01:17:42.0085 Info Message Template Auto Format enabled
+2024-02-12 01:17:42.0546 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 01:17:42.1055 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 01:21:19.0550 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 01:21:19.0586 Info LogFactory has been closed.
+2024-02-12 01:21:21.3754 Info Message Template Auto Format enabled
+2024-02-12 01:21:21.4516 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 01:21:21.5157 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 01:25:50.6947 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 01:25:50.6998 Info LogFactory has been closed.
+2024-02-12 01:39:03.9100 Info Message Template Auto Format enabled
+2024-02-12 01:39:03.9898 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 01:39:04.0590 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 01:47:02.3328 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 01:47:02.3368 Info LogFactory has been closed.
+2024-02-12 01:47:04.7434 Info Message Template Auto Format enabled
+2024-02-12 01:47:04.7893 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 01:47:04.8468 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 01:50:51.2310 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 01:50:51.2372 Info LogFactory has been closed.
+2024-02-12 01:53:07.2451 Info Message Template Auto Format enabled
+2024-02-12 01:53:07.2926 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 01:53:07.3517 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 01:55:29.6746 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 01:55:29.6844 Info LogFactory has been closed.
+2024-02-12 02:02:45.6272 Info Message Template Auto Format enabled
+2024-02-12 02:02:45.6749 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 02:02:45.7269 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 02:07:43.3615 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 02:07:43.3668 Info LogFactory has been closed.
+2024-02-12 02:07:45.8130 Info Message Template Auto Format enabled
+2024-02-12 02:07:45.8587 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 02:07:45.9121 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 02:17:46.4014 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 02:17:46.4073 Info LogFactory has been closed.
+2024-02-12 02:17:50.6100 Info Message Template Auto Format enabled
+2024-02-12 02:17:50.6596 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 02:17:50.7148 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 02:19:07.5052 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 02:19:07.5106 Info LogFactory has been closed.
+2024-02-12 02:19:10.4950 Info Message Template Auto Format enabled
+2024-02-12 02:19:10.5458 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 02:19:10.6044 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 02:19:42.1859 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 02:19:42.1911 Info LogFactory has been closed.
+2024-02-12 02:35:03.8882 Info Message Template Auto Format enabled
+2024-02-12 02:35:03.9397 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 02:35:04.0006 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 02:48:35.1559 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 02:48:35.1625 Info LogFactory has been closed.
+2024-02-12 02:48:39.5645 Info Message Template Auto Format enabled
+2024-02-12 02:48:39.6141 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 02:48:39.6680 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 02:50:27.5365 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 02:50:27.5411 Info LogFactory has been closed.
+2024-02-12 02:50:30.5616 Info Message Template Auto Format enabled
+2024-02-12 02:50:30.6075 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 02:50:30.6619 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 02:51:29.8176 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 02:51:29.8226 Info LogFactory has been closed.
+2024-02-12 02:53:46.5199 Info Message Template Auto Format enabled
+2024-02-12 02:53:46.5678 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 02:53:46.6221 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 02:54:48.9366 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 02:54:48.9421 Info LogFactory has been closed.
+2024-02-12 02:59:35.3374 Info Message Template Auto Format enabled
+2024-02-12 02:59:35.3980 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 02:59:35.4551 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 02:59:55.0944 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 02:59:55.0995 Info LogFactory has been closed.
+2024-02-12 03:00:21.2461 Info Message Template Auto Format enabled
+2024-02-12 03:00:21.2934 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 03:00:21.3472 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 03:00:29.9817 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 03:00:29.9881 Info LogFactory has been closed.
+2024-02-12 03:00:39.7777 Info Message Template Auto Format enabled
+2024-02-12 03:00:39.8367 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 03:00:39.9131 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 03:03:45.1967 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 03:03:45.2025 Info LogFactory has been closed.
+2024-02-12 03:07:24.3427 Info Message Template Auto Format enabled
+2024-02-12 03:07:24.4280 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 03:07:24.4955 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 03:12:43.9887 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 03:12:43.9942 Info LogFactory has been closed.
+2024-02-12 03:24:55.8781 Info Message Template Auto Format enabled
+2024-02-12 03:24:55.9258 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 03:24:55.9792 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 03:27:10.0041 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 03:27:10.0092 Info LogFactory has been closed.
+2024-02-12 18:25:03.3544 Info Message Template Auto Format enabled
+2024-02-12 18:25:03.4604 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 18:25:03.5382 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 18:25:27.8335 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 18:25:27.8390 Info LogFactory has been closed.
+2024-02-12 18:47:21.7492 Info Message Template Auto Format enabled
+2024-02-12 18:47:21.8144 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 18:47:21.8708 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 18:47:36.7618 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 18:47:36.7672 Info LogFactory has been closed.
+2024-02-12 18:50:24.9360 Info Message Template Auto Format enabled
+2024-02-12 18:50:24.9917 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 18:50:25.0551 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 18:57:21.3447 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 18:57:21.3511 Info LogFactory has been closed.
+2024-02-12 21:37:46.4204 Info Message Template Auto Format enabled
+2024-02-12 21:37:46.4763 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 21:37:46.5325 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 21:43:40.3953 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 21:43:40.4039 Info LogFactory has been closed.
+2024-02-12 21:46:18.3524 Info Message Template Auto Format enabled
+2024-02-12 21:46:18.4089 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 21:46:18.4701 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 22:00:19.2189 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 22:00:19.2248 Info LogFactory has been closed.
+2024-02-12 22:01:45.5384 Info Message Template Auto Format enabled
+2024-02-12 22:01:45.6091 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 22:01:45.6803 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 22:37:36.9434 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 22:37:36.9501 Info LogFactory has been closed.
+2024-02-12 22:37:40.1588 Info Message Template Auto Format enabled
+2024-02-12 22:37:40.2084 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 22:37:40.2678 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 22:43:08.3923 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 22:43:08.3975 Info LogFactory has been closed.
+2024-02-12 22:43:12.0443 Info Message Template Auto Format enabled
+2024-02-12 22:43:12.1557 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 22:43:12.2523 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 23:06:37.4376 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 23:06:37.4434 Info LogFactory has been closed.
+2024-02-12 23:06:38.4210 Info Message Template Auto Format enabled
+2024-02-12 23:06:38.4661 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 23:06:38.5289 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 23:06:49.7936 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 23:06:49.7985 Info LogFactory has been closed.
+2024-02-12 23:28:05.6240 Info Message Template Auto Format enabled
+2024-02-12 23:28:05.6939 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 23:28:05.7653 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 23:28:41.4611 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 23:28:41.4642 Info LogFactory has been closed.
+2024-02-12 23:28:43.7159 Info Message Template Auto Format enabled
+2024-02-12 23:28:43.7618 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 23:28:43.8244 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 23:29:32.6377 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 23:29:32.6431 Info LogFactory has been closed.
+2024-02-12 23:35:35.1413 Info Message Template Auto Format enabled
+2024-02-12 23:35:35.1978 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 23:35:35.2564 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 23:36:21.1677 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 23:36:21.1708 Info LogFactory has been closed.
+2024-02-12 23:36:23.3254 Info Message Template Auto Format enabled
+2024-02-12 23:36:23.3802 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 23:36:23.4561 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 23:46:15.7949 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 23:46:15.8008 Info LogFactory has been closed.
+2024-02-12 23:56:32.1330 Info Message Template Auto Format enabled
+2024-02-12 23:56:32.2113 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 23:56:32.2903 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 23:57:24.6502 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 23:57:24.6550 Info LogFactory has been closed.
+2024-02-12 23:57:26.9668 Info Message Template Auto Format enabled
+2024-02-12 23:57:27.1018 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 23:57:27.2263 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 23:58:09.9085 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 23:58:09.9131 Info LogFactory has been closed.
+2024-02-12 23:59:12.5017 Info Message Template Auto Format enabled
+2024-02-12 23:59:12.5743 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-12 23:59:12.6468 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-12 23:59:41.2087 Info AppDomain Shutting down. LogFactory closing...
+2024-02-12 23:59:41.2137 Info LogFactory has been closed.
+2024-02-13 00:01:47.2767 Info Message Template Auto Format enabled
+2024-02-13 00:01:47.3321 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 00:01:47.3920 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 00:02:03.6621 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 00:02:03.6678 Info LogFactory has been closed.
+2024-02-13 00:02:15.2281 Info Message Template Auto Format enabled
+2024-02-13 00:02:15.2836 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 00:02:15.3415 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 00:02:25.3068 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 00:02:25.3128 Info LogFactory has been closed.
+2024-02-13 00:13:41.9225 Info Message Template Auto Format enabled
+2024-02-13 00:13:41.9827 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 00:13:42.0425 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 00:14:19.0617 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 00:14:19.0657 Info LogFactory has been closed.
+2024-02-13 00:14:21.6803 Info Message Template Auto Format enabled
+2024-02-13 00:14:21.7299 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 00:14:21.7894 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 00:16:05.4731 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 00:16:05.4766 Info LogFactory has been closed.
+2024-02-13 00:31:17.3888 Info Message Template Auto Format enabled
+2024-02-13 00:31:17.4504 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 00:31:17.5085 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 00:33:43.6447 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 00:33:43.6484 Info LogFactory has been closed.
+2024-02-13 00:33:56.1147 Info Message Template Auto Format enabled
+2024-02-13 00:33:56.1792 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 00:33:56.2480 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 00:34:18.8070 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 00:34:18.8105 Info LogFactory has been closed.
+2024-02-13 00:34:21.2626 Info Message Template Auto Format enabled
+2024-02-13 00:34:21.3123 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 00:34:21.3774 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 00:36:58.6442 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 00:36:58.6480 Info LogFactory has been closed.
+2024-02-13 00:37:01.1026 Info Message Template Auto Format enabled
+2024-02-13 00:37:01.1486 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 00:37:01.2108 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 00:37:26.7915 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 00:37:26.7958 Info LogFactory has been closed.
+2024-02-13 00:37:29.2824 Info Message Template Auto Format enabled
+2024-02-13 00:37:29.3549 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 00:37:29.4752 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 00:41:01.2544 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 00:41:01.2607 Info LogFactory has been closed.
+2024-02-13 00:47:13.3639 Info Message Template Auto Format enabled
+2024-02-13 00:47:13.4190 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 00:47:13.4823 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 01:06:57.5843 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 01:06:57.5897 Info LogFactory has been closed.
+2024-02-13 01:07:13.0535 Info Message Template Auto Format enabled
+2024-02-13 01:07:13.1081 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 01:07:13.1687 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 01:09:15.1551 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 01:09:15.1599 Info LogFactory has been closed.
+2024-02-13 01:12:57.0222 Info Message Template Auto Format enabled
+2024-02-13 01:12:57.1014 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 01:12:57.1706 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 01:13:49.9046 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 01:13:49.9094 Info LogFactory has been closed.
+2024-02-13 01:14:10.5013 Info Message Template Auto Format enabled
+2024-02-13 01:14:10.5567 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 01:14:10.6170 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 01:14:51.8328 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 01:14:51.8365 Info LogFactory has been closed.
+2024-02-13 01:40:12.9991 Info Message Template Auto Format enabled
+2024-02-13 01:40:13.1530 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 01:40:13.2643 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 01:50:11.7438 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 01:50:11.7499 Info LogFactory has been closed.
+2024-02-13 01:58:05.5732 Info Message Template Auto Format enabled
+2024-02-13 01:58:05.6559 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 01:58:05.7262 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 01:58:38.2971 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 01:58:38.3024 Info LogFactory has been closed.
+2024-02-13 03:45:40.2836 Info Message Template Auto Format enabled
+2024-02-13 03:45:40.3461 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 03:45:40.4095 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 03:46:31.1802 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 03:46:31.1849 Info LogFactory has been closed.
+2024-02-13 03:48:28.5266 Info Message Template Auto Format enabled
+2024-02-13 03:48:28.6050 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 03:48:28.6888 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 03:48:56.0728 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 03:48:56.0777 Info LogFactory has been closed.
+2024-02-13 03:54:49.4729 Info Message Template Auto Format enabled
+2024-02-13 03:54:49.5280 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 03:54:49.5891 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 04:03:40.0579 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 04:03:40.0642 Info LogFactory has been closed.
+2024-02-13 04:03:42.8994 Info Message Template Auto Format enabled
+2024-02-13 04:03:42.9455 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 04:03:43.0065 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 04:07:06.5947 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 04:07:06.5999 Info LogFactory has been closed.
+2024-02-13 04:17:12.5111 Info Message Template Auto Format enabled
+2024-02-13 04:17:12.5737 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 04:17:12.6426 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 04:18:27.3123 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 04:18:27.3183 Info LogFactory has been closed.
+2024-02-13 04:18:54.0010 Info Message Template Auto Format enabled
+2024-02-13 04:18:54.0687 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 04:18:54.1363 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 04:19:26.7784 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 04:19:26.7836 Info LogFactory has been closed.
+2024-02-13 04:19:46.1448 Info Message Template Auto Format enabled
+2024-02-13 04:19:46.1993 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 04:19:46.2583 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 04:20:08.2678 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 04:20:08.2728 Info LogFactory has been closed.
+2024-02-13 04:23:38.4973 Info Message Template Auto Format enabled
+2024-02-13 04:23:38.5534 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 04:23:38.6134 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 04:23:45.6068 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 04:23:45.6105 Info LogFactory has been closed.
+2024-02-13 04:23:48.0572 Info Message Template Auto Format enabled
+2024-02-13 04:23:48.1104 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 04:23:48.1804 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 04:24:11.7129 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 04:24:11.7175 Info LogFactory has been closed.
+2024-02-13 04:24:14.2827 Info Message Template Auto Format enabled
+2024-02-13 04:24:14.3283 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 04:24:14.3915 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 04:25:08.0730 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 04:25:08.0776 Info LogFactory has been closed.
+2024-02-13 04:25:09.1750 Info Message Template Auto Format enabled
+2024-02-13 04:25:09.2213 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 04:25:09.2796 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 04:26:34.9927 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 04:26:34.9974 Info LogFactory has been closed.
+2024-02-13 04:26:38.0771 Info Message Template Auto Format enabled
+2024-02-13 04:26:38.1305 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 04:26:38.1968 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 04:27:55.7851 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 04:27:55.7922 Info LogFactory has been closed.
+2024-02-13 04:59:14.6836 Info Message Template Auto Format enabled
+2024-02-13 04:59:14.7471 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 04:59:14.8108 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 05:00:50.4071 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 05:00:50.4115 Info LogFactory has been closed.
+2024-02-13 05:08:00.9245 Info Message Template Auto Format enabled
+2024-02-13 05:08:00.9819 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 05:08:01.0497 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 05:08:22.9908 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 05:08:22.9957 Info LogFactory has been closed.
+2024-02-13 05:12:57.6099 Info Message Template Auto Format enabled
+2024-02-13 05:12:57.6650 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 05:12:57.7264 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 05:13:25.1472 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 05:13:25.1515 Info LogFactory has been closed.
+2024-02-13 05:20:18.4882 Info Message Template Auto Format enabled
+2024-02-13 05:20:18.5439 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 05:20:18.6029 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 05:21:09.9062 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 05:21:09.9116 Info LogFactory has been closed.
+2024-02-13 05:21:20.1680 Info Message Template Auto Format enabled
+2024-02-13 05:21:20.2239 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 05:21:20.2906 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 05:21:35.4707 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 05:21:35.4755 Info LogFactory has been closed.
+2024-02-13 05:21:42.5282 Info Message Template Auto Format enabled
+2024-02-13 05:21:42.5753 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 05:21:42.6380 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 05:22:51.4399 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 05:22:51.4446 Info LogFactory has been closed.
+2024-02-13 05:28:12.6168 Info Message Template Auto Format enabled
+2024-02-13 05:28:12.6736 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 05:28:12.7333 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 05:29:17.0245 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 05:29:17.0296 Info LogFactory has been closed.
+2024-02-13 05:29:19.7999 Info Message Template Auto Format enabled
+2024-02-13 05:29:19.8702 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 05:29:19.9588 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 05:29:45.9031 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 05:29:45.9080 Info LogFactory has been closed.
+2024-02-13 05:29:48.4900 Info Message Template Auto Format enabled
+2024-02-13 05:29:48.5539 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 05:29:48.6572 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 05:30:03.8842 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 05:30:03.8884 Info LogFactory has been closed.
+2024-02-13 05:32:57.1579 Info Message Template Auto Format enabled
+2024-02-13 05:32:57.2140 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 05:32:57.2766 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 05:34:04.1611 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 05:34:04.1659 Info LogFactory has been closed.
+2024-02-13 05:34:06.8121 Info Message Template Auto Format enabled
+2024-02-13 05:34:06.8575 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 05:34:06.9156 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 05:35:23.7715 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 05:35:23.7767 Info LogFactory has been closed.
+2024-02-13 05:35:26.5488 Info Message Template Auto Format enabled
+2024-02-13 05:35:26.6052 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 05:35:26.6733 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 05:36:22.9144 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 05:36:22.9194 Info LogFactory has been closed.
+2024-02-13 05:36:25.3765 Info Message Template Auto Format enabled
+2024-02-13 05:36:25.4243 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 05:36:25.4909 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 05:37:15.5053 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 05:37:15.5101 Info LogFactory has been closed.
+2024-02-13 05:37:18.0315 Info Message Template Auto Format enabled
+2024-02-13 05:37:18.0801 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 05:37:18.1407 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 05:37:58.3530 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 05:37:58.3581 Info LogFactory has been closed.
+2024-02-13 05:38:00.9836 Info Message Template Auto Format enabled
+2024-02-13 05:38:01.0322 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 05:38:01.0941 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 05:39:37.4927 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 05:39:37.4994 Info LogFactory has been closed.
+2024-02-13 05:44:21.0487 Info Message Template Auto Format enabled
+2024-02-13 05:44:21.1199 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 05:44:21.1928 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 05:44:43.8450 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 05:44:43.8492 Info LogFactory has been closed.
+2024-02-13 05:49:35.9217 Info Message Template Auto Format enabled
+2024-02-13 05:49:35.9768 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 05:49:36.0386 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 05:51:15.9346 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 05:51:15.9397 Info LogFactory has been closed.
+2024-02-13 05:51:18.5096 Info Message Template Auto Format enabled
+2024-02-13 05:51:18.5605 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 05:51:18.6212 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 05:57:06.2166 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 05:57:06.2229 Info LogFactory has been closed.
+2024-02-13 05:57:08.8023 Info Message Template Auto Format enabled
+2024-02-13 05:57:08.8920 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 05:57:09.0128 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 05:57:32.5989 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 05:57:32.6038 Info LogFactory has been closed.
+2024-02-13 05:58:23.6974 Info Message Template Auto Format enabled
+2024-02-13 05:58:23.7526 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 05:58:23.8116 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 05:58:24.3784 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 05:58:24.3813 Info LogFactory has been closed.
+2024-02-13 05:58:28.8521 Info Message Template Auto Format enabled
+2024-02-13 05:58:28.8986 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 05:58:28.9615 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 05:59:44.6975 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 05:59:44.7025 Info LogFactory has been closed.
+2024-02-13 05:59:46.9623 Info Message Template Auto Format enabled
+2024-02-13 05:59:47.0081 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 05:59:47.0729 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:00:29.5603 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 06:00:29.5653 Info LogFactory has been closed.
+2024-02-13 06:00:31.9615 Info Message Template Auto Format enabled
+2024-02-13 06:00:32.0077 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:00:32.0691 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:03:00.2497 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 06:03:00.2552 Info LogFactory has been closed.
+2024-02-13 06:03:02.6055 Info Message Template Auto Format enabled
+2024-02-13 06:03:02.6512 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:03:02.7099 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:04:06.1197 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 06:04:06.1258 Info LogFactory has been closed.
+2024-02-13 06:04:55.3102 Info Message Template Auto Format enabled
+2024-02-13 06:04:55.3658 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:04:55.4258 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:05:20.1273 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 06:05:20.1316 Info LogFactory has been closed.
+2024-02-13 06:05:22.4157 Info Message Template Auto Format enabled
+2024-02-13 06:05:22.4666 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:05:22.5298 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:05:39.9279 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 06:05:39.9323 Info LogFactory has been closed.
+2024-02-13 06:05:42.2610 Info Message Template Auto Format enabled
+2024-02-13 06:05:42.3096 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:05:42.3714 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:06:04.4146 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 06:06:04.4194 Info LogFactory has been closed.
+2024-02-13 06:06:06.6764 Info Message Template Auto Format enabled
+2024-02-13 06:06:06.7221 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:06:06.7841 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:07:04.5577 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 06:07:04.5623 Info LogFactory has been closed.
+2024-02-13 06:07:06.8784 Info Message Template Auto Format enabled
+2024-02-13 06:07:06.9244 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:07:06.9833 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:09:23.5969 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 06:09:23.6013 Info LogFactory has been closed.
+2024-02-13 06:09:25.9363 Info Message Template Auto Format enabled
+2024-02-13 06:09:25.9831 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:09:26.0442 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:10:02.1811 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 06:10:02.1859 Info LogFactory has been closed.
+2024-02-13 06:10:04.3978 Info Message Template Auto Format enabled
+2024-02-13 06:10:04.4442 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:10:04.5041 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:10:35.1802 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 06:10:35.1852 Info LogFactory has been closed.
+2024-02-13 06:10:37.4751 Info Message Template Auto Format enabled
+2024-02-13 06:10:37.5211 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:10:37.5815 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:11:07.4804 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 06:11:07.4851 Info LogFactory has been closed.
+2024-02-13 06:11:09.7492 Info Message Template Auto Format enabled
+2024-02-13 06:11:09.7968 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:11:09.8574 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:11:28.8970 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 06:11:28.9021 Info LogFactory has been closed.
+2024-02-13 06:13:16.3256 Info Message Template Auto Format enabled
+2024-02-13 06:13:16.3819 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:13:16.4411 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:13:52.8629 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 06:13:52.8669 Info LogFactory has been closed.
+2024-02-13 06:13:55.1198 Info Message Template Auto Format enabled
+2024-02-13 06:13:55.1663 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:13:55.2299 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:14:13.5603 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 06:14:13.5658 Info LogFactory has been closed.
+2024-02-13 06:14:15.7881 Info Message Template Auto Format enabled
+2024-02-13 06:14:15.8378 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:14:15.9002 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:14:36.6814 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 06:14:36.6859 Info LogFactory has been closed.
+2024-02-13 06:14:38.7912 Info Message Template Auto Format enabled
+2024-02-13 06:14:38.8399 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:14:38.9027 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:16:41.7619 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 06:16:41.7667 Info LogFactory has been closed.
+2024-02-13 06:16:45.8218 Info Message Template Auto Format enabled
+2024-02-13 06:16:45.8701 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:16:45.9322 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:18:38.9312 Info Message Template Auto Format enabled
+2024-02-13 06:18:38.9879 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:18:39.0499 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:25:23.3628 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 06:25:23.3700 Info LogFactory has been closed.
+2024-02-13 06:26:53.5549 Info Message Template Auto Format enabled
+2024-02-13 06:26:53.6104 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:26:53.6731 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:28:58.5637 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 06:28:58.5687 Info LogFactory has been closed.
+2024-02-13 06:29:34.7249 Info Message Template Auto Format enabled
+2024-02-13 06:29:34.7804 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:29:34.8399 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:30:04.0644 Info Message Template Auto Format enabled
+2024-02-13 06:30:04.1210 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:30:04.1822 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:31:28.5365 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 06:31:28.5400 Info LogFactory has been closed.
+2024-02-13 06:31:37.1252 Info Message Template Auto Format enabled
+2024-02-13 06:31:37.1717 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:31:37.2330 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:33:53.5797 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 06:33:53.5854 Info LogFactory has been closed.
+2024-02-13 06:33:55.8470 Info Message Template Auto Format enabled
+2024-02-13 06:33:55.8937 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:33:55.9539 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:35:46.7266 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 06:35:46.7318 Info LogFactory has been closed.
+2024-02-13 06:38:09.6670 Info Message Template Auto Format enabled
+2024-02-13 06:38:09.7225 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:38:09.7839 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:39:25.8301 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 06:39:25.8354 Info LogFactory has been closed.
+2024-02-13 06:39:28.2838 Info Message Template Auto Format enabled
+2024-02-13 06:39:28.3298 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:39:28.3903 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:41:34.7592 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 06:41:34.7644 Info LogFactory has been closed.
+2024-02-13 06:41:37.0242 Info Message Template Auto Format enabled
+2024-02-13 06:41:37.0727 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:41:37.1345 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:41:52.0696 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 06:41:52.0739 Info LogFactory has been closed.
+2024-02-13 06:41:54.4184 Info Message Template Auto Format enabled
+2024-02-13 06:41:54.4642 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:41:54.5258 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:42:16.8575 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 06:42:16.8618 Info LogFactory has been closed.
+2024-02-13 06:42:54.6299 Info Message Template Auto Format enabled
+2024-02-13 06:42:54.6858 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:42:54.7449 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:43:23.5914 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 06:43:23.5955 Info LogFactory has been closed.
+2024-02-13 06:47:27.5678 Info Message Template Auto Format enabled
+2024-02-13 06:47:27.6250 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:47:27.6891 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:48:18.0010 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 06:48:18.0053 Info LogFactory has been closed.
+2024-02-13 06:48:20.9933 Info Message Template Auto Format enabled
+2024-02-13 06:48:21.0411 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:48:21.1026 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:48:42.9623 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 06:48:42.9667 Info LogFactory has been closed.
+2024-02-13 06:54:22.8030 Info Message Template Auto Format enabled
+2024-02-13 06:54:22.8626 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:54:22.9232 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 06:57:59.6938 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 06:57:59.6996 Info LogFactory has been closed.
+2024-02-13 06:58:02.4863 Info Message Template Auto Format enabled
+2024-02-13 06:58:02.5966 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 06:58:02.7488 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 07:00:47.0226 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 07:00:47.0284 Info LogFactory has been closed.
+2024-02-13 07:00:49.4531 Info Message Template Auto Format enabled
+2024-02-13 07:00:49.4994 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 07:00:49.5644 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 07:01:24.2773 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 07:01:24.2824 Info LogFactory has been closed.
+2024-02-13 07:01:26.4870 Info Message Template Auto Format enabled
+2024-02-13 07:01:26.5362 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 07:01:26.5990 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 07:01:46.3729 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 07:01:46.3776 Info LogFactory has been closed.
+2024-02-13 07:01:48.5817 Info Message Template Auto Format enabled
+2024-02-13 07:01:48.6303 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 07:01:48.6936 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 07:02:13.5652 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 07:02:13.5700 Info LogFactory has been closed.
+2024-02-13 07:02:15.8100 Info Message Template Auto Format enabled
+2024-02-13 07:02:15.8568 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 07:02:15.9225 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 07:05:56.5521 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 07:05:56.5574 Info LogFactory has been closed.
+2024-02-13 07:06:17.1778 Info Message Template Auto Format enabled
+2024-02-13 07:06:17.2780 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 07:06:17.3432 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 07:08:01.4346 Info Message Template Auto Format enabled
+2024-02-13 07:08:01.4905 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 07:08:01.5528 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 07:08:22.4865 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 07:08:22.4907 Info LogFactory has been closed.
+2024-02-13 07:09:14.2056 Info Message Template Auto Format enabled
+2024-02-13 07:09:14.2692 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 07:09:14.3420 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 07:13:00.6003 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 07:13:00.6106 Info LogFactory has been closed.
+2024-02-13 07:13:03.0159 Info Message Template Auto Format enabled
+2024-02-13 07:13:03.0622 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 07:13:03.1224 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 07:13:30.1852 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 07:13:30.1892 Info LogFactory has been closed.
+2024-02-13 07:13:33.0002 Info Message Template Auto Format enabled
+2024-02-13 07:13:33.0671 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 07:13:33.1423 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 07:14:55.9020 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 07:14:55.9068 Info LogFactory has been closed.
+2024-02-13 07:14:58.2053 Info Message Template Auto Format enabled
+2024-02-13 07:14:58.2512 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 07:14:58.3118 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 07:16:00.1560 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 07:16:00.1609 Info LogFactory has been closed.
+2024-02-13 07:16:03.1857 Info Message Template Auto Format enabled
+2024-02-13 07:16:03.2607 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 07:16:03.3325 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 07:16:30.9409 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 07:16:30.9454 Info LogFactory has been closed.
+2024-02-13 07:16:33.3207 Info Message Template Auto Format enabled
+2024-02-13 07:16:33.3687 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 07:16:33.4315 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config
+2024-02-13 07:16:59.6013 Info AppDomain Shutting down. LogFactory closing...
+2024-02-13 07:16:59.6056 Info LogFactory has been closed.
+2024-02-13 07:25:23.7806 Info Message Template Auto Format enabled
+2024-02-13 07:25:23.8825 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-13 07:25:23.9468 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/muhammedbayindir/Projects/msbayindir/WebApi/nLog.config

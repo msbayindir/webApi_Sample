@@ -41,6 +41,13 @@ public class ProductManager : IProductService
         await _manager.SaveAsync();
     }
 
+    public async Task<List<ProductDto>> GetProductsAsync(bool trackChange)
+    {
+        var products = await _manager.Product.GetProductsAsync(trackChange);
+        var productsDtos = _mapper.Map<List<ProductDto>>(products);
+        return productsDtos;
+    }
+
     public async Task<ProductDto> GetOneProductByIdAsync(int id, bool trackChange)
     {
         var entity =await _manager.Product.GetOneProductByIdAsync(id, trackChange);

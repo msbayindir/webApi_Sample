@@ -17,3 +17,4 @@
 /Users/muhammedbayindir/Projects/msbayindir/Presentation/obj/Debug/net7.0/refint/Presentation.dll
 /Users/muhammedbayindir/Projects/msbayindir/Presentation/obj/Debug/net7.0/Presentation.pdb
 /Users/muhammedbayindir/Projects/msbayindir/Presentation/obj/Debug/net7.0/ref/Presentation.dll
+/Users/muhammedbayindir/Projects/msbayindir/Presentation/obj/Debug/net7.0/Presentation.sourcelink.json

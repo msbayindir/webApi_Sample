@@ -19,6 +19,8 @@ namespace Repositories.EfCore
 
 
         public void DeleteOneProduct(Product product) => Delete(product);
+        public Task<List<Product>> GetProductsAsync(bool trackChange) => GetValues(trackChange).ToListAsync();
+        
 
 
         public async Task<PagedList<Product>> GetProductsAsync(ProductParameters parameters,bool trackChange)

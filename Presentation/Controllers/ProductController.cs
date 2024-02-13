@@ -3,6 +3,7 @@ using System.IdentityModel.Tokens.Jwt;
 using Entities.DataTransferObjects;
 using Entities.Models;
 using Entities.RequestFeatrues;
+using Marvin.Cache.Headers;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -13,6 +14,7 @@ using JsonSerializer = System.Text.Json.JsonSerializer;
 
 namespace Presentation.Controllers
 {
+
     [ServiceFilter(typeof(LogFilterAttribute))]
 	[ApiController]
 	[Route("api/product")]
@@ -24,7 +26,7 @@ namespace Presentation.Controllers
         {
             _serviceManager = serviceManager;
         }
-
+        [HttpHead]
         [HttpGet]
         public async Task<IActionResult> GetProducts([FromQuery] ProductParameters parameters)
         {
@@ -32,6 +34,7 @@ namespace Presentation.Controllers
                 .productService
                 .GetProductsAsync(parameters, false);
             
+
             Response.Headers.Add("X-Pagination",JsonSerializer.Serialize(pagedResult.Item2));
             return Ok(pagedResult.Item1);
         }
@@ -61,6 +64,13 @@ namespace Presentation.Controllers
         {
             _serviceManager.productService.UpdateOneProduct(id, productDto, false);
             return StatusCode(200, productDto);
+        }
+
+        [HttpOptions]
+        public IActionResult GetProductOptions()
+        {
+            Response.Headers.Add("Allow","Get, Post, Put, Delete, Head, Options");
+            return Ok();
         }
     }
 }

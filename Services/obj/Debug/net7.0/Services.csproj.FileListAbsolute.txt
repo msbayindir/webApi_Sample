@@ -15,3 +15,4 @@
 /Users/muhammedbayindir/Projects/msbayindir/Services/obj/Debug/net7.0/refint/Services.dll
 /Users/muhammedbayindir/Projects/msbayindir/Services/obj/Debug/net7.0/Services.pdb
 /Users/muhammedbayindir/Projects/msbayindir/Services/obj/Debug/net7.0/ref/Services.dll
+/Users/muhammedbayindir/Projects/msbayindir/Services/obj/Debug/net7.0/Services.sourcelink.json

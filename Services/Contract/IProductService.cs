@@ -13,6 +13,7 @@ namespace Services.Contract
         Task<ProductDto> CreateOneProductAsync(ProductDtoForInsertion product);
         void UpdateOneProduct(int id,ProductDtoForUpdate productDto,bool trackChange);
         Task DeleteOneProduct(int id,bool trackChange);
+        Task<List<ProductDto>> GetProductsAsync(bool trackChange);
     }
 }
 

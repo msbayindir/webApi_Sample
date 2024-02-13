@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Dynamic;
 using AutoMapper;
 using Entities.DataTransferObjects;
 using Entities.Models;
@@ -15,6 +16,7 @@ namespace WebApi.Utilities.AutoMapper
             CreateMap<ProductDto, ProductDtoForInsertion>().ReverseMap();
 
             CreateMap<Product, ProductDtoForManupulation>().ReverseMap();
+
 
 
         }

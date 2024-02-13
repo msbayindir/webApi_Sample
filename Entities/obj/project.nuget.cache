@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "SDIIDrOJtyGYP/FXGuG1dPYgWGTbfasX9F5rL6DJbZACJMGbwVVvHk/SNKBpzYlw68EoRuVki/WAtZS57oWV7A==",
+  "dgSpecHash": "H7XBuxms017ymGkEMYyeny3BFlTyvMsPXqI5zB5//V7gcDuzG2O1Plvus8Y3PhlNFtNzTctZiJJTrOR/7252hg==",
   "success": true,
   "projectFilePath": "/Users/muhammedbayindir/Projects/msbayindir/Entities/Entities.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/muhammedbayindir/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/muhammedbayindir/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
